@@ -1,0 +1,476 @@
+{
+  "data": [
+    {
+      "TaskID": 1,
+      "TaskName": "Plan de Trabajo Inicial CDC",
+      "StartDate": "2026-06-08",
+      "EndDate": "2026-07-10",
+      "Duration": 33,
+      "Progress": 0,
+      "color": "",
+      "Predecessor": null,
+      "resources": [],
+      "info": "<p><br></p>",
+      "DurationUnit": "day",
+      "subtasks": [
+        {
+          "TaskID": 2,
+          "TaskName": "Fase 1: Comprender y alinear",
+          "StartDate": "2026-06-08",
+          "EndDate": "2026-06-12",
+          "Duration": 5,
+          "Progress": 0,
+          "color": "",
+          "Predecessor": null,
+          "resources": [],
+          "info": "<p><br></p>",
+          "DurationUnit": "day",
+          "subtasks": [
+            {
+              "TaskID": 3,
+              "TaskName": "Analizar problema y objetivos del CDC",
+              "StartDate": "2026-06-08",
+              "EndDate": "2026-06-09",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 4,
+              "TaskName": "Definir visión del producto",
+              "StartDate": "2026-06-09",
+              "EndDate": "2026-06-10",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 5,
+              "TaskName": "Delimitar alcance inicial",
+              "StartDate": "2026-06-10",
+              "EndDate": "2026-06-11",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 6,
+              "TaskName": "Identificar stakeholders y riesgos iniciales",
+              "StartDate": "2026-06-11",
+              "EndDate": "2026-06-12",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 7,
+              "TaskName": "Hito: Fase 1 validada",
+              "StartDate": "2026-06-12",
+              "EndDate": "2026-06-12",
+              "Duration": 1,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "TaskID": 8,
+          "TaskName": "Fase 2: Especificar y trazar",
+          "StartDate": "2026-06-15",
+          "EndDate": "2026-06-26",
+          "Duration": 12,
+          "Progress": 0,
+          "color": "",
+          "Predecessor": null,
+          "resources": [],
+          "info": "<p><br></p>",
+          "DurationUnit": "day",
+          "subtasks": [
+            {
+              "TaskID": 9,
+              "TaskName": "Levantar requisitos preliminares",
+              "StartDate": "2026-06-15",
+              "EndDate": "2026-06-17",
+              "Duration": 3,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 10,
+              "TaskName": "Priorizar requisitos críticos",
+              "StartDate": "2026-06-17",
+              "EndDate": "2026-06-19",
+              "Duration": 3,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 11,
+              "TaskName": "Elaborar catálogo preliminar de requisitos",
+              "StartDate": "2026-06-19",
+              "EndDate": "2026-06-23",
+              "Duration": 5,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 12,
+              "TaskName": "Definir roles y responsabilidades",
+              "StartDate": "2026-06-23",
+              "EndDate": "2026-06-24",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 13,
+              "TaskName": "Establecer dependencias, entregables e hitos",
+              "StartDate": "2026-06-24",
+              "EndDate": "2026-06-26",
+              "Duration": 3,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 14,
+              "TaskName": "Hito: Requisitos y trazabilidad consolidados",
+              "StartDate": "2026-06-26",
+              "EndDate": "2026-06-26",
+              "Duration": 1,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "TaskID": 15,
+          "TaskName": "Fase 3: Planificar la transformación y gestionar el cambio",
+          "StartDate": "2026-06-29",
+          "EndDate": "2026-07-03",
+          "Duration": 5,
+          "Progress": 0,
+          "color": "",
+          "Predecessor": null,
+          "resources": [],
+          "info": "<p><br></p>",
+          "DurationUnit": "day",
+          "subtasks": [
+            {
+              "TaskID": 16,
+              "TaskName": "Elaborar roadmap inicial",
+              "StartDate": "2026-06-29",
+              "EndDate": "2026-06-30",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 17,
+              "TaskName": "Consolidar plan de trabajo inicial",
+              "StartDate": "2026-06-30",
+              "EndDate": "2026-07-01",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 18,
+              "TaskName": "Revisar coherencia entre visión, requisitos y entregables",
+              "StartDate": "2026-07-01",
+              "EndDate": "2026-07-02",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 19,
+              "TaskName": "Ajustar riesgos, hitos y prioridades",
+              "StartDate": "2026-07-02",
+              "EndDate": "2026-07-03",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 20,
+              "TaskName": "Hito: Fase 3 validada",
+              "StartDate": "2026-07-03",
+              "EndDate": "2026-07-03",
+              "Duration": 1,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "TaskID": 21,
+          "TaskName": "Cierre y entrega final",
+          "StartDate": "2026-07-06",
+          "EndDate": "2026-07-10",
+          "Duration": 5,
+          "Progress": 0,
+          "color": "",
+          "Predecessor": null,
+          "resources": [],
+          "info": "<p><br></p>",
+          "DurationUnit": "day",
+          "subtasks": [
+            {
+              "TaskID": 22,
+              "TaskName": "Revisión final del documento",
+              "StartDate": "2026-07-06",
+              "EndDate": "2026-07-07",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 23,
+              "TaskName": "Corrección y edición final",
+              "StartDate": "2026-07-07",
+              "EndDate": "2026-07-08",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 24,
+              "TaskName": "Preparar sustentación o entrega",
+              "StartDate": "2026-07-08",
+              "EndDate": "2026-07-09",
+              "Duration": 2,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            },
+            {
+              "TaskID": 25,
+              "TaskName": "Entrega final del proyecto",
+              "StartDate": "2026-07-10",
+              "EndDate": "2026-07-10",
+              "Duration": 1,
+              "Progress": 0,
+              "color": "",
+              "Predecessor": null,
+              "resources": [
+                {
+                  "resourceId": "Equipo 7",
+                  "resourceName": "Equipo 7"
+                }
+              ],
+              "info": "<p><br></p>",
+              "DurationUnit": "day",
+              "subtasks": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "resourceId": "Equipo 7",
+      "resourceName": "Equipo 7"
+    }
+  ],
+  "advanced": {
+    "workWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ]
+  }
+}
